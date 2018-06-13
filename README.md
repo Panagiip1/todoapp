@@ -45,6 +45,9 @@ You can collaborate with others since they can grab code and clone it etc...
 
 Github, bitbucket
 
+- Initialize a git repository for the application
+- Made an initial commit
+
 
 hash {key: value}
 

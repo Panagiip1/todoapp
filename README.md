@@ -11,6 +11,33 @@ Snake case: hello_world my_name_is articles_controller
 CameCase: HelloWorld MyNameIs ArticlesController
 
 
+VERSION CONTROL! - git
+
+Git einai ena version control system that lets you save your work among other thing 
+You can push your code and save it to online repositories
+You can push your code to production hosting services like heroku
+You can collaborate with others since they can grab code and clone it etc...
+
+Github, bitbucket
+
+- Initialize a git repository for the application
+- Made an initial commit
+
+
+hash {key: value}
+
+
+Flash 
+
+Prosthetoume messages ston flash (to opoio einai hash)
+
+Meta kanoume display ta contents twn mhmumatwn ta opoia einai ston flash
+
+Todo.find(params[:id])
+
+
+
+
 ---Section 2
 
 Gia mia nea Todo:
@@ -40,56 +67,11 @@ destroys a todo
 CRUD from the UI!!!! browser
 
 
-VERSION CONTROL! - git
+Create a partial
 
-Git einai ena version control system that lets you save your work among other thing 
-You can push your code and save it to online repositories
-You can push your code to production hosting services like heroku
-You can collaborate with others since they can grab code and clone it etc...
-
-Github, bitbucket
-
-- Initialize a git repository for the application
-- Made an initial commit
-
-
-hash {key: value}
-
-
-Flash 
-
-Prosthetoume messages ston flash (to opoio einai hash)
-
-Meta kanoume display ta contents twn mhmumatwn ta opoia einai ston flash
-
-Todo.find(params[:id])
+Refactor code when it starts to smell
 
 
 
 
 
-
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

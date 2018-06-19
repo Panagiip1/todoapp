@@ -36,6 +36,10 @@ displays an individual todo
 delete 
 destroys a todo
 
+
+CRUD from the UI!!!! browser
+
+
 VERSION CONTROL! - git
 
 Git einai ena version control system that lets you save your work among other thing 
